@@ -1,0 +1,27 @@
+D:\Projects 2016-2017\Sales_Management\Sales_Management\bin\Debug\Sales_Management.exe
+D:\Projects 2016-2017\Sales_Management\Sales_Management\bin\Debug\Sales_Management.pdb
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.PL.FRM_LOGIN.resources
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.Properties.Resources.resources
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.exe
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.pdb
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.PL.FRM_MAIN.resources
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.PL.FRM_ADD_CUSTOMER.resources
+D:\Projects 2016-2017\Sales_Management\Sales_Management\bin\Debug\Sales_Management.exe.config
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.RPT.FRM_Reports.resources
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.PL.FRM_PRODUCTS.resources
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.PL.FRM_ORDERS.resources
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.PL.FRM_PRODUCT_LIST.resources
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.PL.FRM_ORDERS_LIST.resources
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\ResGen.read.1.tlog
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\ResGen.write.1.tlog
+D:\Projects 2016-2017\Sales_Management\Sales_Management\bin\Debug\log4net.dll
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.PL.FRM_BACKUP.resources
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.PL.FRM_RESTORE.resources
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.PL.FRM_CONFIG.resources
+D:\Projects 2016-2017\Sales_Management\Sales_Management\obj\x86\Debug\Sales_Management.PL.FRM_ACCOUNTS.resources
+D:\مشروع التخرج للعام الدراسى 2016-2017\1 نظام مبيعات ومشتريات\مج1\Sales_Management\bin\Debug\Sales_Management.exe.config
+D:\مشروع التخرج للعام الدراسى 2016-2017\1 نظام مبيعات ومشتريات\مج1\Sales_Management\obj\x86\Debug\Sales_Management.exe
+D:\مشروع التخرج للعام الدراسى 2016-2017\1 نظام مبيعات ومشتريات\مج1\Sales_Management\obj\x86\Debug\Sales_Management.pdb
